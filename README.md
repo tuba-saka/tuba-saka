@@ -12,7 +12,7 @@
 
 ## 🌸 Hakkımda
 
-Merhaba! Ben Tuba SAKA. Bayburt Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim.
+Merhaba!Bayburt Üniversitesi Bilgisayar Programcılığı 2. sınıf öğrencisiyim.
 
 Yazılım geliştirme, web tasarımı ve yeni teknolojiler öğrenmeye ilgi duyuyorum. Kendimi sürekli geliştirerek yaratıcı ve kullanışlı projeler üretmeyi hedefliyorum.
 
