@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# TUBA SAKA
-
 ### 💻 Computer Programming Student | Front-End Developer
 
 **Learning · Creating · Developing**
